@@ -1,0 +1,17 @@
+C:\Users\Mauro\OneDrive\Desktop\cliente-app\src\main\java\com\myApp\cliente_app\ClienteAppApplication.java
+C:\Users\Mauro\OneDrive\Desktop\cliente-app\src\main\java\com\myApp\cliente_app\controller\CategoriaController.java
+C:\Users\Mauro\OneDrive\Desktop\cliente-app\src\main\java\com\myApp\cliente_app\controller\ClienteController.java
+C:\Users\Mauro\OneDrive\Desktop\cliente-app\src\main\java\com\myApp\cliente_app\controller\ProductoController.java
+C:\Users\Mauro\OneDrive\Desktop\cliente-app\src\main\java\com\myApp\cliente_app\model\Categoria.java
+C:\Users\Mauro\OneDrive\Desktop\cliente-app\src\main\java\com\myApp\cliente_app\model\Cliente.java
+C:\Users\Mauro\OneDrive\Desktop\cliente-app\src\main\java\com\myApp\cliente_app\model\Producto.java
+C:\Users\Mauro\OneDrive\Desktop\cliente-app\src\main\java\com\myApp\cliente_app\repository\CategoriaRepository.java
+C:\Users\Mauro\OneDrive\Desktop\cliente-app\src\main\java\com\myApp\cliente_app\repository\ClienteRepository.java
+C:\Users\Mauro\OneDrive\Desktop\cliente-app\src\main\java\com\myApp\cliente_app\repository\ProductoRepository.java
+C:\Users\Mauro\OneDrive\Desktop\cliente-app\src\main\java\com\myApp\cliente_app\services\CategoriaService.java
+C:\Users\Mauro\OneDrive\Desktop\cliente-app\src\main\java\com\myApp\cliente_app\services\CategoriaServiceImplementacion.java
+C:\Users\Mauro\OneDrive\Desktop\cliente-app\src\main\java\com\myApp\cliente_app\services\ClienteService.java
+C:\Users\Mauro\OneDrive\Desktop\cliente-app\src\main\java\com\myApp\cliente_app\services\ClienteServiceImplementacion.java
+C:\Users\Mauro\OneDrive\Desktop\cliente-app\src\main\java\com\myApp\cliente_app\services\ProductoService.java
+C:\Users\Mauro\OneDrive\Desktop\cliente-app\src\main\java\com\myApp\cliente_app\services\ProductoServiceImpl.java
+C:\Users\Mauro\OneDrive\Desktop\cliente-app\src\main\java\com\myApp\cliente_app\ServletInitializer.java

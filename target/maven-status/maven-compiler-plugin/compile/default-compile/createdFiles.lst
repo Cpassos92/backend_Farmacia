@@ -1,0 +1,17 @@
+com\myApp\cliente_app\services\ClienteService.class
+com\myApp\cliente_app\services\ClienteServiceImplementacion.class
+com\myApp\cliente_app\services\CategoriaService.class
+com\myApp\cliente_app\model\Categoria.class
+com\myApp\cliente_app\repository\ClienteRepository.class
+com\myApp\cliente_app\services\CategoriaServiceImplementacion.class
+com\myApp\cliente_app\services\ProductoService.class
+com\myApp\cliente_app\controller\ProductoController.class
+com\myApp\cliente_app\controller\CategoriaController.class
+com\myApp\cliente_app\repository\ProductoRepository.class
+com\myApp\cliente_app\ServletInitializer.class
+com\myApp\cliente_app\ClienteAppApplication.class
+com\myApp\cliente_app\model\Cliente.class
+com\myApp\cliente_app\model\Producto.class
+com\myApp\cliente_app\services\ProductoServiceImpl.class
+com\myApp\cliente_app\controller\ClienteController.class
+com\myApp\cliente_app\repository\CategoriaRepository.class
